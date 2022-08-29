@@ -1,6 +1,10 @@
+<div id="header" align="center">
+  <img style="height: 100px; width:100px; border-radius: 50% 20% / 10% 40%;" src="https://avatars.githubusercontent.com/u/98063818?v=4" />
+</div>
+
 ### Hi there 👋
 
-<!--
+
 **sonnymijael/sonnymijael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
