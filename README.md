@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style="height: 100px; width:100px; border-radius: 50% 20% / 10% 40%;" src="https://avatars.githubusercontent.com/u/98063818?v=4" />
+  <img style="height: 150px; width:150px;" src="https://avatars.githubusercontent.com/u/98063818?v=4" />
 </div>
 
 ### Hi there 👋
