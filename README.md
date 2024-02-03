@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [**sonnymijael.com**](https://www.sonnymijael.com)
 
-- 📫 How to reach me <a href="mailto:sonnymijael@gmail.com">**sonnymijael@gmail.com**</a>
+- 📫 How to reach me <a href="mailto:sonnymijael@gmail.com?subject=Hello%2C%20I%20come%20from%20github">**sonnymijael@gmail.com**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
