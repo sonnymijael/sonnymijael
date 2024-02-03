@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonnymijael&label=Profile%20views&color=0e75b6&style=flat" alt="sonnymijael" /> </p>
 
-- 👨‍💻 All of my projects are available at [sonnymijael.com](sonnymijael.com)
+- 👨‍💻 All of my projects are available at [**sonnymijael.com**](https://www.sonnymijael.com)
 
-- 📫 How to reach me **sonnymijael@gmail.com**
+- 📫 How to reach me <a href="mailto:sonnymijael@gmail.com">**sonnymijael@gmail.com**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
